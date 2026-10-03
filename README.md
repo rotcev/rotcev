@@ -57,9 +57,9 @@ An unfinished JVM experiment. The current code parses class files and inspects t
 <tr>
 <td width="50%" valign="top">
 
-### [BASTARD](https://github.com/rotcev/bastard)
+### [HTTP server in C](https://github.com/rotcev/webserver)
 
-An early Java bytecode project with class-file parsing and control-flow graph structures.
+A hobby HTTP/1.1 server built in C with Windows sockets, request parsing, and response construction.
 
 </td>
 <td width="50%" valign="top">
