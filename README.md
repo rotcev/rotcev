@@ -41,9 +41,9 @@ Earlier projects built to understand languages, bytecode, and learning algorithm
 <tr>
 <td width="50%" valign="top">
 
-### [Haskell JVM interpreter](https://github.com/rotcev/haskell-jvm-interpreter)
+### [JVM internals in Haskell](https://github.com/rotcev/haskell-jvm-interpreter)
 
-An unfinished JVM experiment. The current code parses class files and inspects the constant pool.
+Explores JVM internals through class-file parsing and constant-pool inspection in Haskell.
 
 </td>
 <td width="50%" valign="top">
