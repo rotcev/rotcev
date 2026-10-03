@@ -41,32 +41,32 @@ Earlier projects built to understand languages, bytecode, and learning algorithm
 <tr>
 <td width="50%" valign="top">
 
-### [Java Lisp interpreter](https://github.com/rotcev/java-lisp-interpreter)
+### [Haskell JVM interpreter](https://github.com/rotcev/haskell-jvm-interpreter)
 
-A Lisp-like language with an interactive REPL, lambdas, and curried functions.
+An unfinished JVM experiment. The current code parses class files and inspects the constant pool.
 
 </td>
 <td width="50%" valign="top">
 
-### [Haskell JVM interpreter](https://github.com/rotcev/haskell-jvm-interpreter)
+### [Java Lisp interpreter](https://github.com/rotcev/java-lisp-interpreter)
 
-An unfinished JVM experiment. The current code parses class files and inspects the constant pool.
+A Lisp-like language with an interactive REPL, lambdas, and curried functions.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [HTTP server in C](https://github.com/rotcev/webserver)
+### [Java neural network](https://github.com/rotcev/basic-java-neural-network)
 
-A hobby HTTP/1.1 server built in C with Windows sockets, request parsing, and response construction.
+A learning project implementing fully connected layers, activation functions, and backpropagation.
 
 </td>
 <td width="50%" valign="top">
 
-### [Java neural network](https://github.com/rotcev/basic-java-neural-network)
+### [HTTP server in C](https://github.com/rotcev/webserver)
 
-A learning project implementing fully connected layers, activation functions, and backpropagation.
+A hobby HTTP/1.1 server built in C with Windows sockets, request parsing, and response construction.
 
 </td>
 </tr>
